@@ -18,7 +18,7 @@ test('valid login', async ({ page }) => {
 
 test('Invalid login', async ({ page }) => {
     await page.goto('https://www.viennabakery.ca/?fuseaction=member.login');
-    await page.locator('//input[@name="username"]').fill('email');
+    await page.locator('//input[@name="email"]').fill('email');
     await page.locator('//input[@name="password"]').fill('wrongpassword');
 
     await page.getByRole('link', { name: 'Get started' }).click();
