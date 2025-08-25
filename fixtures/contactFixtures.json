@@ -1,0 +1,41 @@
+{
+    "validContact": {
+       "FirstName":"Pranav",
+       "LastName":"Karmacharya",
+       "DateofBirth":"2000-06-15",
+       "Email":"pranavkarmacharya@gmail.com",
+       "Phone":"1234567890",
+       "StreetAddress1":"paknajol",
+       "StreetAddress2":"swoyambhu",
+       "City":"Kathmandu",
+       "StateofProvience":"Bagmati",
+       "postalCode":"977",
+       "Country":"Nepal"
+    },
+    "invalidContact": {
+       "FirstName":"",
+       "LastName":"",
+       "Date of Birth":"200/06-15",
+       "Email":"pranavkarmacharyagmail.com",
+       "Phone":"12345",
+       "Street Address 1":"",
+       "Street Address 2":"",
+       "City":"",
+       "State of Provience":"",
+       "postalCode":"",
+       "Country":""
+    },
+        "editContact": {
+       "FirstName":"Hawa",
+       "LastName":"Edit",
+       "Date of Birth":"2000-07-15",
+       "Email":"pranavkarmacharya@gmail.com",
+       "Phone":"1234567890",
+       "Street Address 1":"asdasd",
+       "Street Address 2":"asdsad",
+       "City":"asdasd",
+       "State of Provience":"asdasd",
+       "postalCode":"asdasda",
+       "Country":"asdasdas"
+    }
+}

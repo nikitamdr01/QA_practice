@@ -1,0 +1,14 @@
+ {
+    "validUser": {
+        "userName": "nikitamanandhar8@gmail.com",
+        "password": "zxcvbnm"
+    },
+    "invalidUser": {
+        "userName": "invalid@gmail.com",
+        "password": "qwer"
+    },
+    "InValidpassword": {
+        "userName": "nikitamanandhar8@gmail.com",
+        "password": "zxcvbnm"
+    }
+}
